@@ -1,0 +1,40 @@
+address{
+    padding: 1% 0 1% 0;
+}
+
+h1{
+    padding-top: 8%;
+}
+
+.carousel img {
+    max-height: 745px;
+    margin: 0 auto;
+}
+
+.copyright{
+    font-size: 0.75rem;
+}
+
+.intro{
+    padding: 10% 30%;
+}
+
+.navitems{
+    padding-right: 85px;
+}
+
+#about{
+    font-family: 'Spartan', sans-serif;
+}
+
+#contact{
+    background-color: #212529;
+    color: #F8F9FA;
+    font-family: 'Spartan', sans-serif;
+}
+
+#title{
+    background-color: #F8F9FA;
+    color: #212529;
+    font-family: 'Spartan', sans-serif;
+}
